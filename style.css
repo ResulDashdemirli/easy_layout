@@ -1,0 +1,48 @@
+h1,p {
+    width: 90%;
+    padding: 10px;
+    margin: 10px;
+    color: #777;
+    text-align: center;
+    background: #ebebeb;
+}
+.header{
+    display: block;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    background: #ebebeb;
+   }
+   header,nav,section,aside,footer {
+     display: block;
+     padding: 10px;
+     margin: 10px;
+     text-align: center;
+     background: #ebebeb;
+   }
+   section {
+    display: block;
+    float: left;
+    width: 495px;
+    height: 267px;
+    overflow: hidden;
+  }
+  
+  aside {
+    display: block;
+    float: right;
+    width: 40%;
+    height: 267px;
+    overflow: hidden;
+  }
+  
+  article {
+    padding: 10px;
+    color: #ebebeb;
+    background: #777;
+  }
+  
+  .clear {
+    clear: both;
+  }
+  
